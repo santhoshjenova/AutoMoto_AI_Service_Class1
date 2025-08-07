@@ -1,8 +1,8 @@
+joblib
 streamlit
 pandas
 numpy
 scikit-learn
-joblib
-textblob
 lightgbm
+textblob
 
